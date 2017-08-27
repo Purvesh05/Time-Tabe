@@ -1,0 +1,954 @@
+<!doctype html>
+<html>
+<head>
+<title>Teacher's Time table</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+ <br/>
+ <br/>
+ <h2>IT DEPARTMENT</h2> 
+<table border="1" align ="center">
+<tr> <th colspan="16" ><h1>Today's Time Table</h1></th> </tr>
+<tr>
+<th>Time</th>
+<th>Chavan Sir</th>
+<th>Lakshmi Ma'am</th>
+<th>Archana Ma'am</th>
+<th>Trupti Ma'am</th>
+<th>Dhanashree Ma'am</th>
+<th>Parimita Ma'am</th>
+<th>Mukta Ma'am</th>
+<th>Poonam Ma'am</th>
+<th>Anand Sir</th>
+<th>Kalpana Ma'am</th>
+<th>Smita Ma'am</th>
+<th>Rupali Ma'am</th>
+<th>Suraj Sir</th>
+<th>Jaya Ma'am</th>
+
+</tr>
+<tr>
+<th>8:45-9:45</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+</tr>
+<tr>
+<th>9:45-10:45</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+</tr>
+<tr>
+<th>10:45-11:00</th>
+<th colspan="15" >BREAK!!!!!</th>
+</tr>
+
+<tr>
+<th>11:00-12:00</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+</tr>
+
+<tr>
+<th>12:00-1:00</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+</tr>
+
+<tr>
+<th>1:00-1:30</th>
+<th colspan="15" >LUNCH BREAK!!!!!</th>
+</tr>
+
+<tr>
+<th>8:45-9:45</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+</tr>
+
+<tr>
+<th>2:30-3:30</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+
+</tr>
+<tr>
+<th>3:30-4:30</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">ABSENT</option>
+		<option value="A">Available</optiom>
+		<option value="NA">Not Available</optiom>
+	</select>
+</form>
+</td>
+</tr>
+</table>
+<br/>
+<br/>
+<form align="center" > <input type="submit" value="submit"> </form>
+
+</body>
+</html>

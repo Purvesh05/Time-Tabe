@@ -1,0 +1,15 @@
+h1 	{	color:red;
+	}
+
+th 	{
+		font-family:arial;	
+	}
+h2	{	
+		background-color:yellow;
+		border-color:red;
+		border-width:10px;
+		border-style:outset;
+		width: 850px;
+		margin-left:250px;
+		text-align:center;
+	}

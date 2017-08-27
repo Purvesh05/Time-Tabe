@@ -1,0 +1,331 @@
+<!doctype html>
+<html>
+<head>
+<title>hello</title>
+<style> 
+h1 {color:red;}
+th {font-family:arial;}
+h2{background-color:yellow;
+	padding-top:5px;
+    border-color:red;
+	border-width:10px;
+	border-style:outset;
+	width: 830px;
+	margin-left:250px;
+}
+	
+</style>
+</head>
+<body>
+ <br/>
+ <br/>
+ <h2 align="center">IT DEPARTMENT</h2> 
+<table border="3" cellpadding="5" align ="center">
+
+<tr> <th colspan="5" ><h1>Today's Time Table</h1></th> </tr>
+<tr>
+<th>Time</th>
+<th>SEM 1</th>
+<th>SEM 3</th>
+<th>SEM 5</th>
+<th>SEM 7</th>
+
+</tr>
+<tr>
+<th>8:45-9:45</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">OFFDAY!!</option>
+		<option value="m1">Applied Mathematics-I </option>
+		<option value="p1">Applied Physics-I</option>
+		<option value="c1""">Applied Chemistry -I </option>
+		<option value="mech">Engineering Mechanics </option>
+		<option value="bee">Basic Electrical Engineering</option>
+		<option value="w1">Workshop</option>
+		<option value="e1">Environmental studies </option>
+		<option value="mech-p">Mech Pratical</option>
+		<option value="P/C-p">Phy/Chem-Pratical</option>
+		<option value="m1-t">Maths Tutorial</option>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem3">
+		<option value="off">OFFDAY!!</option>
+		<option value="m33">Applied Mathematics-III</option>
+		<option value="DBMS">DBMS</option>
+		<option value="DSA">DSA</option>
+		<option value="PC">PCOM</option>
+		<option value="JAVA">JPL</option>
+		<option value="DL">Logic Design</option>
+		<option value="SQl">SQL Pratical</option>
+		<option value="JAVA-P">JAVA-Pratical</option>
+		<option value="DSA-P">DSA-Pratical</option>
+		<option value="PC-P">PCOM-Pratical</option>
+		<option value="LD-P">Logic Design-Pratical</option>
+	</select>
+</form>
+</td>
+<td><form action="Time Table" method="get"><input type="text"name="text3"/></form></td>
+<td><form action="Time Table" method="get"><input type="text"name="text4"/></form></td>
+</tr>
+<tr>
+<th>9:45-10:45</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">OFFDAY!!</option>
+		<option value="m1">Applied Mathematics-I </option>
+		<option value="p1">Applied Physics-I</option>
+		<option value="c1""">Applied Chemistry -I </option>
+		<option value="mech">Engineering Mechanics </option>
+		<option value="bee">Basic Electrical Engineering</option>
+		<option value="w1">Workshop</option>
+		<option value="e1">Environmental studies </option>
+		<option value="mech-p">Mech Pratical</option>
+		<option value="P/C-p">Phy/Chem-Pratical</option>
+		<option value="m1-t">Maths Tutorial</option>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem3">
+		<option value="off">OFFDAY!!</option>
+		<option value="m33">Applied Mathematics-III</option>
+		<option value="DBMS">DBMS</option>
+		<option value="DSA">DSA</option>
+		<option value="PC">PCOM</option>
+		<option value="JAVA">JPL</option>
+		<option value="DL">Logic Design</option>
+		<option value="SQl">SQL Pratical</option>
+		<option value="JAVA-P">JAVA-Pratical</option>
+		<option value="DSA-P">DSA-Pratical</option>
+		<option value="PC-P">PCOM-Pratical</option>
+		<option value="LD-P">Logic Design-Pratical</option>
+	</select>
+</form>
+</td>
+<td><form action="Time Table" method="get"><input type="text"name="text7"/></form></td>
+<td><form action="Time Table" method="get"><input type="text"name="text8"/></form></td>
+
+</tr>
+<tr>
+<th>10:45-11:00</th>
+<th colspan="5" >BREAK!!!!!</th>
+</tr>
+
+<tr>
+<th>11:00-12:00</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">OFFDAY!!</option>
+		<option value="m1">Applied Mathematics-I </option>
+		<option value="p1">Applied Physics-I</option>
+		<option value="c1""">Applied Chemistry -I </option>
+		<option value="mech">Engineering Mechanics </option>
+		<option value="bee">Basic Electrical Engineering</option>
+		<option value="w1">Workshop</option>
+		<option value="e1">Environmental studies </option>
+		<option value="mech-p">Mech Pratical</option>
+		<option value="P/C-p">Phy/Chem-Pratical</option>
+		<option value="m1-t">Maths Tutorial</option>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem3">
+		<option value="off">OFFDAY!!</option>
+		<option value="m33">Applied Mathematics-III</option>
+		<option value="DBMS">DBMS</option>
+		<option value="DSA">DSA</option>
+		<option value="PC">PCOM</option>
+		<option value="JAVA">JPL</option>
+		<option value="DL">Logic Design</option>
+		<option value="SQl">SQL Pratical</option>
+		<option value="JAVA-P">JAVA-Pratical</option>
+		<option value="DSA-P">DSA-Pratical</option>
+		<option value="PC-P">PCOM-Pratical</option>
+		<option value="LD-P">Logic Design-Pratical</option>
+	</select>
+</form>
+</td>
+<td><form action="Time Table" method="get"><input type="text"name="text11"/></form></td>
+<td><form action="Time Table" method="get"><input type="text"name="text12"/></form></td>
+</tr>
+<tr>
+<th>12:00-1:00</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">OFFDAY!!</option>
+		<option value="m1">Applied Mathematics-I </option>
+		<option value="p1">Applied Physics-I</option>
+		<option value="c1""">Applied Chemistry -I </option>
+		<option value="mech">Engineering Mechanics </option>
+		<option value="bee">Basic Electrical Engineering</option>
+		<option value="w1">Workshop</option>
+		<option value="e1">Environmental studies </option>
+		<option value="mech-p">Mech Pratical</option>
+		<option value="P/C-p">Phy/Chem-Pratical</option>
+		<option value="m1-t">Maths Tutorial</option>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem3">
+		<option value="off">OFFDAY!!</option>
+		<option value="m33">Applied Mathematics-III</option>
+		<option value="DBMS">DBMS</option>
+		<option value="DSA">DSA</option>
+		<option value="PC">PCOM</option>
+		<option value="JAVA">JPL</option>
+		<option value="DL">Logic Design</option>
+		<option value="SQl">SQL Pratical</option>
+		<option value="JAVA-P">JAVA-Pratical</option>
+		<option value="DSA-P">DSA-Pratical</option>
+		<option value="PC-P">PCOM-Pratical</option>
+		<option value="LD-P">Logic Design-Pratical</option>
+	</select>
+</form>
+</td>
+<td><form action="Time Table" method="get"><input type="text"name="text15"/></form></td>
+<td><form action="Time Table" method="get"><input type="text"name="text16"/></form></td>
+</tr>
+
+<th>1:00-1:30</th>
+<th colspan="5" >LUNCH BREAK!!!!!</th>
+</tr>
+<tr>
+<th>1:30-2:30</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">OFFDAY!!</option>
+		<option value="m1">Applied Mathematics-I </option>
+		<option value="p1">Applied Physics-I</option>
+		<option value="c1""">Applied Chemistry -I </option>
+		<option value="mech">Engineering Mechanics </option>
+		<option value="bee">Basic Electrical Engineering</option>
+		<!-- <option value="w1">Workshop</option> -->
+		<option value="e1">Environmental studies </option>
+		<option value="mech-p">Mech Pratical</option>
+		<option value="P/C-p">Phy/Chem-Pratical</option>
+		<option value="m1-t">Maths Tutorial</option>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem3">
+		<option value="off">OFFDAY!!</option>
+		<option value="m33">Applied Mathematics-III</option>
+		<option value="DBMS">DBMS</option>
+		<option value="DSA">DSA</option>
+		<option value="PC">PCOM</option>
+		<option value="JAVA">JPL</option>
+		<option value="DL">Logic Design</option>
+		<option value="SQl">SQL Pratical</option>
+		<option value="JAVA-P">JAVA-Pratical</option>
+		<option value="DSA-P">DSA-Pratical</option>
+		<option value="PC-P">PCOM-Pratical</option>
+		<option value="LD-P">Logic Design-Pratical</option>
+	</select>
+</form>
+</td>
+<td><form action="Time Table" method="get"><input type="text"name="text19"/></form></td>
+<td><form action="Time Table" method="get"><input type="text"name="text20"/></form></td>
+</tr>
+<tr>
+<th>2:30-3:30</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">OFFDAY!!</option>
+		<option value="m1">Applied Mathematics-I </option>
+		<option value="p1">Applied Physics-I</option>
+		<option value="c1""">Applied Chemistry -I </option>
+		<option value="mech">Engineering Mechanics </option>
+		<option value="bee">Basic Electrical Engineering</option>
+		<option value="w1">Workshop</option>
+		<option value="e1">Environmental studies </option>
+		<option value="mech-p">Mech Pratical</option>
+		<option value="P/C-p">Phy/Chem-Pratical</option>
+		<option value="m1-t">Maths Tutorial</option>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem3">
+		<option value="off">OFFDAY!!</option>
+		<option value="m33">Applied Mathematics-III</option>
+		<option value="DBMS">DBMS</option>
+		<option value="DSA">DSA </option>
+		<option value="PC">PCOM</option>
+		<option value="JAVA">JPL</option>
+		<option value="DL">Logic Design</option>
+		<option value="SQl">SQL Pratical</option>
+		<option value="JAVA-P">JAVA-Pratical</option>
+		<option value="DSA-P">DSA-Pratical</option>
+		<option value="PC-P">PCOM-Pratical</option>
+		<option value="LD-P">Logic Design-Pratical</option>
+	</select>
+</form>
+</td>
+<td><form action="Time Table" method="get"><input type="text"name="text23"/></form></td>
+<td><form action="Time Table" method="get"><input type="text"name="text24"/></form></td>
+
+</tr>
+<tr>
+<th>3:30-4:30</th>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem1">
+		<option value="off">OFFDAY!!</option>
+		<option value="m1">Applied Mathematics-I </option>
+		<option value="p1">Applied Physics-I</option>
+		<option value="c1""">Applied Chemistry -I </option>
+		<option value="mech">Engineering Mechanics </option>
+		<option value="bee">Basic Electrical Engineering</option>
+		<option value="w1">Workshop</option>
+		<option value="e1">Environmental studies </option>
+		<option value="mech-p">Mech Pratical</option>
+		<option value="P/C-p">Phy/Chem-Pratical</option>
+		<option value="m1-t">Maths Tutorial</option>
+	</select>
+</form>
+</td>
+<td>
+<form action="Time Table" method="get">
+	<select name="sem3">
+		<option value="off">OFFDAY!!</option>
+		<option value="m33">Applied Mathematics-III</option>
+		<option value="DBMS">DBMS</option>
+		<option value="DSA">DSA </option>
+		<option value="PC">PCOM</option>
+		<option value="JAVA">JPL</option>
+		<option value="DL">Logic Design</option>
+		<option value="SQl">SQL Pratical</option>
+		<option value="JAVA-P">JAVA-Pratical</option>
+		<option value="DSA-P">DSA-Pratical</option>
+		<option value="PC-P">PCOM-Pratical</option>
+		<option value="LD-P">Logic Design-Pratical</option>
+	</select>
+</form>
+</td>
+<td><form action="Time Table" method="get"><input type="text"name="text27"/></form></td>
+<td><form action="Time Table" method="get"><input type="text"name="text28"/></form></td>
+</tr>
+</table>
+<br/>
+<br/>
+<form align="center" > <input type="submit" value="submit"> </form>
+
+</body>
+</html>
